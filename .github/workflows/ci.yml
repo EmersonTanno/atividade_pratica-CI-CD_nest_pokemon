@@ -27,6 +27,3 @@ jobs:
 
       - name: Rodar testes unitários
         run: npm run test
-
-      - name: Rodar testes unitários
-        run: npm run test
